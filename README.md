@@ -1,4 +1,5 @@
 # 2D Graphical Outputs using Matrices
+![vid](https://thumbs.gfycat.com/LightheartedPlumpHoneybadger-mobile.mp4)
 
 ## Dependencies
 * [Python 3.8](https://www.python.org/downloads/)
